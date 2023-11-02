@@ -1,4 +1,5 @@
-const shell = require('shelljs');
+
+const shell =require('shelljs');
 
 const addParams = process.argv;
 let file='';
